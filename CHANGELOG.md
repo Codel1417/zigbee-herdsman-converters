@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.58.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.57.0...v15.58.0) (2023-08-15)
+
+
+### Features
+
+* Support schedule for TuYa TS0601_thermostat_3 and add `_TZE200_p3dbf6qs` and `_TZE200_rxntag7i` ([#6067](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6067)) ([3a948ab](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3a948abc5cc94c0a4be2ede464834431d4cd4148))
+
 ## [15.57.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v15.56.0...v15.57.0) (2023-08-14)
 
 
